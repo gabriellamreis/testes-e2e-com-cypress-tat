@@ -41,10 +41,8 @@ describe('Scenarios where authentication is a pre-requirement', () => {
         .click()
     }
 
-    
     cy.get('.nav > :nth-child(2) > a').click()
     cy.get('#email').should('be.visible')
-    
   })
 })
 
