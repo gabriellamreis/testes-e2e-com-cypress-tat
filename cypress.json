@@ -1,11 +1,11 @@
 {
-    "baseUrl": "https://notes-serverless-app.com",
-    "responseTimeout": 20000,
-    "experimentalSessionSupport": true,
-    "chromeWebSecurity": false,
-    "experimentalStudio": true,
-    "env": {
-        "viewportWidthBreakpoint": 768
-      }
-    
+  "baseUrl": "https://notes-serverless-app.com",
+  "responseTimeout": 20000,
+  "experimentalSessionSupport": true,
+  "chromeWebSecurity": false,
+  "experimentalStudio": true,
+  "env": {
+    "viewportWidthBreakpoint": 768
+  },
+  "projectId": "iw6mk2"
 }
